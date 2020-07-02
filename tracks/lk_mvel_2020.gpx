@@ -10,7 +10,7 @@
 		<name>LK.MN-1</name>
 	</wpt>
 	<wpt lat="43.360229" lon="42.624896">
-        <name>LK.BROD-SUBASHI</name>
+		<name>LK.BROD-SUBASHI</name>
 	</wpt>
 	<wpt lat="43.388982" lon="42.811921">
 		<name>LK.OBED-2</name>
@@ -28,7 +28,7 @@
 		<name>LK.OBED-3</name>
 	</wpt>
 	<wpt lat="43.350315" lon="42.753878">
-        <name>LK.BROD.ZAGULLA</name>
+		<name>LK.BROD.ZAGULLA</name>
 	</wpt>
 	<wpt lat="43.360529" lon="42.692294">
 		<name>LK.MN-3</name>
@@ -37,13 +37,13 @@
 		<name>LK.NARZAN</name>
 	</wpt>
 	<wpt lat="43.391514" lon="42.634595">
-        <name>LK.PER.KYRTYKAUSH(n/c)</name>
+		<name>LK.PER.KYRTYKAUSH(n/c)</name>
 	</wpt>
 	<wpt lat="43.397737" lon="42.612579">
 		<name>LK.OBED-4</name>
 	</wpt>
 	<wpt lat="43.397136" lon="42.586336">
-        <name>LK.PER.ISLAMCHAT(n/c)</name>
+		<name>LK.PER.ISLAMCHAT(n/c)</name>
 	</wpt>
 	<wpt lat="43.402286" lon="42.571402">
 		<name>LK.MN-4</name>
@@ -58,13 +58,13 @@
 		<name>LK.MN-5</name>
 	</wpt>
 	<wpt lat="43.349371" lon="42.636418">
-        <name>LK.BROD.MKYARA</name>
+		<name>LK.BROD.MKYARA</name>
 	</wpt>
 	<wpt lat="43.344693" lon="42.648499">
 		<name>LK.OBED-6</name>
 	</wpt>
 	<wpt lat="43.335381" lon="42.664893">
-        <name>LK.PER.SYLTRAN(n/c)</name>
+		<name>LK.PER.SYLTRAN(n/c)</name>
 	</wpt>
 	<wpt lat="43.327806" lon="42.675944">
 		<name>LK.MN-6</name>
@@ -103,7 +103,7 @@
 		<name>LK.VER.KURMYTAU(4045)</name>
 	</wpt>
 	<wpt lat="43.239229" lon="42.719610">
-        <name>LK.PER.VCSPS(1b)</name>
+		<name>LK.PER.VCSPS(1b)</name>
 	</wpt>
 	<wpt lat="43.218715" lon="42.693410">
 		<name>LK.MN-9</name>
@@ -121,7 +121,7 @@
 		<name>LK.RAZVALINA</name>
 	</wpt>
 	<wpt lat="43.392158" lon="42.832284">
-        <name>LK.KRASNAYA.MORENA</name>
+		<name>LK.KRASNAYA.MORENA</name>
 	</wpt>
 	<wpt lat="43.368383" lon="42.767525">
 		<name>LK.1.RUCHEI</name>
@@ -151,10 +151,10 @@
 		<name>LK.GREBEN</name>
 	</wpt>
 	<wpt lat="43.380013" lon="42.556102">
-        <name>LK.NACHALO.LED.DZHIKAUGENKEZ</name>
+		<name>LK.NACHALO.LED.DZHIKAUGENKEZ</name>
 	</wpt>
 	<wpt lat="43.356023" lon="42.593804">
-        <name>LK.SPUSK.S.MORENY</name>
+		<name>LK.SPUSK.S.MORENY</name>
 	</wpt>
 	<wpt lat="43.321948" lon="42.711284">
 		<name>LK.DOMIK</name>
@@ -163,7 +163,7 @@
 		<name>LK.pos.VERKH.BAKSAN</name>
 	</wpt>
 	<wpt lat="43.252104" lon="42.785099">
-        <name>LK.MOST.ADYRSU</name>
+		<name>LK.MOST.ADYRSU</name>
 	</wpt>
 	<wpt lat="43.241503" lon="42.788811">
 		<name>LK.OPORY.PODJEMNIKA</name>
@@ -184,19 +184,19 @@
 		<name>LK.BROD.riv.MUKAL</name>
 	</wpt>
 	<wpt lat="43.385742" lon="42.650108">
-        <name>LK.BROD.ULLU-ESENTCHI</name>
+		<name>LK.BROD.ULLU-ESENTCHI</name>
 	</wpt>
 	<wpt lat="43.265965" lon="42.479198">
-        <name>LK.ST.AZAU</name>
+		<name>LK.ST.AZAU</name>
 	</wpt>
 	<wpt lat="43.302829" lon="42.461560">
-        <name>LK.ST.GARABASHI</name>
+		<name>LK.ST.GARABASHI</name>
 	</wpt>
 	<wpt lat="43.314352" lon="42.459371">
 		<name>LK.PRIYUT-11</name>
 	</wpt>
 	<wpt lat="43.339007" lon="42.455573">
-        <name>LK.KOSAYA.POLKA</name>
+		<name>LK.KOSAYA.POLKA</name>
 	</wpt>
 	<wpt lat="43.274269" lon="42.460530">
 		<name>LK.STARY.KRUGOZOR</name>
@@ -207,41 +207,41 @@
 	<wpt lat="43.242147" lon="42.639015">
 		<name>LK.POGRANTSY-2</name>
 	</wpt>
-	<wpt lat="43.394633" lon="42.855821">
+	<wpt lat="43.394625" lon="42.855823">
 		<name>PMN-05.07</name>
 	</wpt>
-	<wpt lat="43.390953" lon="42.831488">
+	<wpt lat="43.390956" lon="42.831490">
 		<name>PMN-06.07</name>
 	</wpt>
-	<wpt lat="43.370117" lon="42.820072">
+	<wpt lat="43.370121" lon="42.820075">
 		<name>001</name>
 	</wpt>
-	<wpt lat="43.368339" lon="42.766900">
+	<wpt lat="43.368340" lon="42.766903">
 		<name>PMN-07.07</name>
 	</wpt>
-	<wpt lat="43.385402" lon="42.649784">
+	<wpt lat="43.385399" lon="42.649787">
 		<name>PMN-08.07</name>
 	</wpt>
-	<wpt lat="43.402179" lon="42.571442">
+	<wpt lat="43.402178" lon="42.571445">
 		<name>PMN-09.07</name>
 	</wpt>
-	<wpt lat="43.330134" lon="42.562140">
+	<wpt lat="43.330124" lon="42.562132">
 		<name>PMN-10.07</name>
 	</wpt>
-	<wpt lat="43.328518" lon="42.673516">
+	<wpt lat="43.328514" lon="42.673519">
 		<name>PMN-12.07</name>
 	</wpt>
-	<wpt lat="43.264597" lon="42.779732">
+	<wpt lat="43.264592" lon="42.779734">
 		<name>PMN-13.07</name>
 	</wpt>
-	<wpt lat="43.236363" lon="42.755442">
+	<wpt lat="43.236354" lon="42.755444">
 		<name>PMN-14.07</name>
 	</wpt>
-	<wpt lat="43.218657" lon="42.693354">
+	<wpt lat="43.218651" lon="42.693346">
 		<name>PMN-15.07</name>
 	</wpt>
 	<trk>
-		<name>Kavkaz_2019</name>
+		<name>lk_mvel_2020</name>
 		<trkseg>
 			<trkpt lat="43.376065" lon="42.908802"><time>1970-01-01T00:00:01.000Z</time></trkpt>
 			<trkpt lat="43.376730" lon="42.908673"><time>1970-01-01T00:00:01.000Z</time></trkpt>
@@ -1183,37 +1183,7 @@
 			<trkpt lat="43.248606" lon="42.553914"><time>1970-01-01T00:00:01.000Z</time></trkpt>
 			<trkpt lat="43.246696" lon="42.541382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
 			<trkpt lat="43.250387" lon="42.524002"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.257146" lon="42.514432"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.260215" lon="42.497566"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.262210" lon="42.488125"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.266759" lon="42.481687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.266180" lon="42.478469"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.274205" lon="42.460444"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.289848" lon="42.460702"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.302765" lon="42.461689"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.303130" lon="42.462762"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.315039" lon="42.460745"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.317871" lon="42.460787"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.322077" lon="42.459307"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.326476" lon="42.459049"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.328235" lon="42.458749"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.330488" lon="42.457998"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.331540" lon="42.457547"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.335231" lon="42.457676"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.338986" lon="42.455573"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.335231" lon="42.457912"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.330360" lon="42.458298"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.326218" lon="42.459457"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.321347" lon="42.459414"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.316069" lon="42.460959"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.299225" lon="42.463491"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.289461" lon="42.461217"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.274355" lon="42.461260"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.265836" lon="42.478898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.266759" lon="42.482503"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.262167" lon="42.489069"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.260086" lon="42.497823"><time>1970-01-01T00:00:01.000Z</time></trkpt>
-			<trkpt lat="43.256738" lon="42.514346"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.256768" lon="42.514257"><time>1970-01-01T00:00:01.000Z</time></trkpt>
 		</trkseg>
 	</trk>
 </gpx>
