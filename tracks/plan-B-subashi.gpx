@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<wpt lat="43.344887" lon="42.540052">
+		<name>per.Irikchat</name>
+	</wpt>
+	<wpt lat="43.342569" lon="42.559793">
+		<name>per.Subashi</name>
+	</wpt>
+	<wpt lat="43.349478" lon="42.576530">
+		<name>subashi-reserve-join</name>
+	</wpt>
+	<trk>
+		<name>plan-B-subashi</name>
+		<trkseg>
+			<trkpt lat="43.338685" lon="42.548936"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.339951" lon="42.553291"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.340059" lon="42.555545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.340810" lon="42.557562"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.341561" lon="42.558956"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.342076" lon="42.560158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.342440" lon="42.559729"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.342698" lon="42.559858"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.344801" lon="42.565994"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.344758" lon="42.568591"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.344565" lon="42.570973"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.346195" lon="42.575157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.347933" lon="42.576487"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.349543" lon="42.576530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
