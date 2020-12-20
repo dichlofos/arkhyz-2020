@@ -6,136 +6,112 @@
     </link>
     <time>2020-07-05T05:40:53Z</time>
   </metadata>
-  <wpt lat="43.346361" lon="42.850476">
-    <ele>1405.602905</ele>
-    <time>2020-07-05T05:40:53Z</time>
-    <name>131</name>
-    <sym>Light</sym>
-  </wpt>
   <wpt lat="43.373225" lon="42.909633">
     <ele>1320.292603</ele>
     <time>2020-07-05T07:46:18Z</time>
-    <name>132</name>
-    <cmt>СТАРТ</cmt>
+    <name>СТАРТ</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.384738" lon="42.897084">
     <ele>1807.372314</ele>
     <time>2020-07-05T11:14:34Z</time>
-    <name>133</name>
-    <cmt>ОБЕД1</cmt>
+    <name>ОБЕД-1</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.394100" lon="42.857000">
     <ele>2321.009277</ele>
     <time>2020-07-05T16:15:29Z</time>
-    <name>134</name>
-    <cmt>СТ1</cmt>
+    <name>СТ1</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.394469" lon="42.850223">
     <ele>2488.957031</ele>
     <time>2020-07-06T05:12:02Z</time>
-    <name>135</name>
-    <cmt>НАДОРОГЕ</cmt>
+    <name>ДОРОГА-1</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.389222" lon="42.824346">
     <ele>3022.937012</ele>
     <time>2020-07-06T09:53:03Z</time>
-    <name>136</name>
-    <cmt>КАСКИ</cmt>
+    <name>КАСКИ</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.388400" lon="42.806890">
     <ele>3380.284180</ele>
     <time>2020-07-06T13:13:48Z</time>
-    <name>137</name>
-    <cmt>ТЫРНЫАУЗ</cmt>
+    <name>ТЫРНЫАУЗ</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.388416" lon="42.792457">
     <ele>2936.814209</ele>
     <time>2020-07-06T15:16:13Z</time>
-    <name>138</name>
-    <cmt>СТ2</cmt>
+    <name>СТ2</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.381384" lon="42.783944">
     <ele>3224.665527</ele>
     <time>2020-07-07T05:40:17Z</time>
-    <name>139</name>
-    <cmt>СУАРЫК</cmt>
+    <name>СУАРЫК</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.363498" lon="42.763278">
     <ele>2432.494629</ele>
     <time>2020-07-07T08:31:14Z</time>
-    <name>140</name>
-    <cmt>РАЗВИЛ</cmt>
+    <name>РАЗВИЛКА-1</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.353245" lon="42.756519">
     <ele>2239.571045</ele>
     <time>2020-07-07T09:46:47Z</time>
-    <name>141</name>
-    <cmt>ТРПА</cmt>
+    <name>ТРОПА</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.350318" lon="42.753709">
     <ele>2107.458252</ele>
     <time>2020-07-07T09:58:25Z</time>
-    <name>142</name>
-    <cmt>ОБЕД3</cmt>
+    <name>ОБЕД-3</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.356671" lon="42.726930">
     <ele>2196.851807</ele>
     <time>2020-07-07T14:36:29Z</time>
-    <name>143</name>
-    <cmt>СТ3</cmt>
+    <name>СТ3</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.359457" lon="42.693821">
     <ele>2327.136963</ele>
     <time>2020-07-08T04:32:40Z</time>
-    <name>144</name>
-    <cmt>РОДНИК</cmt>
+    <name>РОДНИК-1</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.370041" lon="42.668591">
     <ele>2481.823730</ele>
     <time>2020-07-08T05:50:37Z</time>
-    <name>145</name>
-    <cmt>РАЗВИЛ</cmt>
+    <name>РАЗВИЛКА-2</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.379824" lon="42.663514">
     <ele>2692.669434</ele>
     <time>2020-07-08T07:11:43Z</time>
-    <name>146</name>
-    <cmt>РОДНИК2</cmt>
+    <name>РОДНИК-2</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.381917" lon="42.660386">
     <ele>2739.013672</ele>
     <time>2020-07-08T07:37:09Z</time>
-    <name>147</name>
-    <cmt>РОДН</cmt>
+    <name>РОДНИК-3</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.383443" lon="42.657033">
     <ele>2791.942139</ele>
     <time>2020-07-08T07:44:51Z</time>
-    <name>148</name>
-    <cmt>ПРИТОК</cmt>
+    <name>ПРИТОК</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.385817" lon="42.649827">
     <ele>2894.313721</ele>
     <time>2020-07-08T08:24:31Z</time>
-    <name>149</name>
-    <cmt>3РОД</cmt>
+    <name>БРОД</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.391563" lon="42.634686">
@@ -213,13 +189,13 @@
   <wpt lat="43.337910" lon="42.548702">
     <ele>3383.085693</ele>
     <time>2020-07-10T09:26:25Z</time>
-    <name>СТОЯНКИ2</name>
+    <name>СТОЯНКИ-2</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.333683" lon="42.556029">
     <ele>3209.370117</ele>
     <time>2020-07-10T09:59:06Z</time>
-    <name>ОБЕД6</name>
+    <name>ОБЕД-6</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.319393" lon="42.577021">
@@ -309,7 +285,7 @@
   <wpt lat="43.327270" lon="42.672798">
     <ele>3208.384033</ele>
     <time>2020-07-12T11:29:55Z</time>
-    <name>ОБЕД8</name>
+    <name>ОБЕД-8</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.325452" lon="42.684948">
@@ -339,7 +315,7 @@
   <wpt lat="43.296583" lon="42.759855">
     <ele>1676.070068</ele>
     <time>2020-07-13T09:36:56Z</time>
-    <name>ОБЕД9</name>
+    <name>ОБЕД-9</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.286320" lon="42.762948">
@@ -399,7 +375,7 @@
   <wpt lat="43.235017" lon="42.765842">
     <ele>3076.351807</ele>
     <time>2020-07-14T08:53:55Z</time>
-    <name>ОБЕД10</name>
+    <name>ОБЕД-10</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.235036" lon="42.765810">
@@ -459,19 +435,19 @@
   <wpt lat="43.227861" lon="42.705358">
     <ele>3068.103027</ele>
     <time>2020-07-17T03:31:29Z</time>
-    <name>СНОВА НАТРОПЕ</name>
+    <name>СНОВА-НА-ТРОПЕ</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.218591" lon="42.694845">
     <ele>2303.787842</ele>
     <time>2020-07-17T05:55:59Z</time>
-    <name>ДОРОГА</name>
+    <name>ДОРОГА-2</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.231194" lon="42.651359">
     <ele>1945.676880</ele>
     <time>2020-07-17T07:11:21Z</time>
-    <name>ПП2</name>
+    <name>ПОГРАНПОСТ-2</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.243360" lon="42.638270">
@@ -483,7 +459,7 @@
   <wpt lat="43.244133" lon="42.596590">
     <ele>1894.446045</ele>
     <time>2020-07-17T09:20:37Z</time>
-    <name>ОБЕД13</name>
+    <name>ОБЕД-13</name>
     <sym>Light</sym>
   </wpt>
   <wpt lat="43.245051" lon="42.587461">
@@ -501,7 +477,7 @@
   <wpt lat="43.258646" lon="42.504204">
     <ele>2193.143066</ele>
     <time>2020-07-17T14:36:44Z</time>
-    <name>БИВУАК КЕМПИНГ</name>
+    <name>КЕМПИНГ.БИВУАК</name>
     <sym>Light</sym>
   </wpt>
 </gpx>
