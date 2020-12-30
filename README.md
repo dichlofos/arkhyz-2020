@@ -8,7 +8,6 @@
 - Исходный текст отчёта https://github.com/dichlofos/dzhantugan-2020/blob/master/report_dzhantugan_2020.md
 - Мини-отчёт, написанный сразу после похода: https://github.com/dichlofos/dzhantugan-2020/blob/master/mini_report_dzhantugan_2020.md
 - Резервная копия отчёта в формате PDF: TODO
--
 
 ## Описания перевалов
 
@@ -23,6 +22,16 @@ https://docs.google.com/document/d/1A5TXBwzgZwDnBM7jJcryVl2Ouir4CIzEFZl4tzs0GXM/
 - Фото Юли Янеевой:
   - Часть 1: https://yadi.sk/a/FjtNc4qlqOuUFA
   - Часть 2: https://yadi.sk/a/DD8od4Ft1FMb4w
+- Каталог `to_print`: нарезка фото и текстов для печати перед походом
+
+## Карты
+- Каталог `maps`: подготовленная с помощью https://nakarte.me карта в масштабе 300м:1см с наложенным на неё треком.
+
+## Треки
+
+Каталог `tracks`: в корне лежат чужие треки и проектные, нарисованные
+для оценки расстояния. Каталоги `tracks/etrex20` и `tracks/gpsmap62s` содержат
+снятые на местности треки и маршрутные точки.
 
 ## Замечание об авторских правах
 
