@@ -8,6 +8,7 @@
 - Исходный текст отчёта https://github.com/dichlofos/dzhantugan-2020/blob/master/report_dzhantugan_2020.md
 - Мини-отчёт, написанный сразу после похода: https://github.com/dichlofos/dzhantugan-2020/blob/master/mini_report_dzhantugan_2020.md
 - Резервная копия отчёта в формате PDF: TODO
+- Маршрутная книжка (фотокопия): https://yadi.sk/a/wZOVdya2Xrp3Qg
 
 ## Описания перевалов
 
