@@ -33,8 +33,11 @@
 # Отчёт
 - Исходный [текст отчёта](https://github.com/dichlofos/dzhantugan-2020/blob/master/report_dzhantugan_2020.md)
 - [Мини-отчёт](https://github.com/dichlofos/dzhantugan-2020/blob/master/mini_report_dzhantugan_2020.md), написанный сразу после похода
-- Резервная [копия отчёта](https://yadi.sk/d/n0zLBUQmbPjU5A) в формате PDF + трек с точками
+- [Копия отчёта](https://yadi.sk/d/n0zLBUQmbPjU5A) в формате PDF + трек с точками, отправленные на Кубок Москвы 2021.
+- [Итоговый судейский протокол Кубка Москвы](https://fst-otm.net/file/rezult/marshrut/km2021/km2021_gory_2ks_f7.pdf) от 24.02.2021 в формате PDF
+- По результатам Кубка Москвы 2021 поход занял 5-е место, набрав `23.25` баллов с отрывом от 1 места в `0.67` баллов.
 - Маршрутная книжка: [фотокопия](https://yadi.sk/a/wZOVdya2Xrp3Qg)
+- Финальная версия отчёта (для хранения): TODO
 
 # Описания перевалов
 
